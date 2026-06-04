@@ -22,10 +22,11 @@ We believe AI should work as an integrated ecosystem, not as isolated islands of
 
 ## 📫 How to Reach Us
 
+-   **Website** [Lineatrix](https://lineatrix.com)
 -   **Email:** info@lineatrix.com
 -   **Twitter:** [@LineatrixAI](https://twitter.com/LineatrixAI) 
--   **Website** [Lineatrix](https://lineatrix.com)
-
+-   **YouTube:** [@LineatrixAI](https:/youtube.com/@LineatrixAI)
+-   **Instagram:** [@Lineatrixai](https:/instagram.com/lineatrixai)
 ---
 
 <p align="center">
